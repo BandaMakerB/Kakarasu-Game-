@@ -1,0 +1,11 @@
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\bin\Debug\netcoreapp3.0\ProgrammingAssignments.exe
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\bin\Debug\netcoreapp3.0\ProgrammingAssignments.deps.json
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\bin\Debug\netcoreapp3.0\ProgrammingAssignments.runtimeconfig.json
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\bin\Debug\netcoreapp3.0\ProgrammingAssignments.runtimeconfig.dev.json
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\bin\Debug\netcoreapp3.0\ProgrammingAssignments.dll
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\bin\Debug\netcoreapp3.0\ProgrammingAssignments.pdb
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\obj\Debug\netcoreapp3.0\ProgrammingAssignments.csprojAssemblyReference.cache
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\obj\Debug\netcoreapp3.0\ProgrammingAssignments.AssemblyInfoInputs.cache
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\obj\Debug\netcoreapp3.0\ProgrammingAssignments.AssemblyInfo.cs
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\obj\Debug\netcoreapp3.0\ProgrammingAssignments.dll
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\obj\Debug\netcoreapp3.0\ProgrammingAssignments.pdb
